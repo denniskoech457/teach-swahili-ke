@@ -372,7 +372,7 @@ $isPaid = isset($_COOKIE[$COOKIE_PAID]) && $_COOKIE[$COOKIE_PAID] === 'true';
         <div class="brand">
           <div class="brand-badge">SC</div>
           <div>
-            <strong>Swahili Connect</strong>
+            <strong>Teach Swahili</strong>
             <small>Learn through real conversation</small>
           </div>
         </div>
